@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a19f7e2-c9f4-463e-b262-314ce50ab5cd" name="Changes" comment="robie dalej ucze sie sdsdds">
+    <list default="true" id="8a19f7e2-c9f4-463e-b262-314ce50ab5cd" name="Changes" comment="kolejny part">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Part4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
@@ -40,7 +41,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/matik/OneDrive/Documents/GitHub/openCV/build/java/x64/opencv_java490.dll",
+    "last_opened_file_path": "C:/processing-4.3/core/library/core.jar",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -112,13 +113,22 @@
       <option name="project" value="LOCAL" />
       <updated>1711468312628</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="kolejny part">
+      <option name="closed" value="true" />
+      <created>1711615666429</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711615666429</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sadsdasd" />
     <MESSAGE value="robie dalej ucze sie" />
     <MESSAGE value="robie dalej ucze sie sdsdds" />
-    <option name="LAST_COMMIT_MESSAGE" value="robie dalej ucze sie sdsdds" />
+    <MESSAGE value="kolejny part" />
+    <option name="LAST_COMMIT_MESSAGE" value="kolejny part" />
   </component>
 </project>

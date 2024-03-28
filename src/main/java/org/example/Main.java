@@ -3,25 +3,24 @@ package org.example;
 import org.opencv.core.Core;
 import org.opencv.core.Mat;
 import org.opencv.videoio.VideoCapture;
+import processing.core.PApplet;
 
 
-public class Main {
-    public static void main(String[] args) throws Exception {
-        System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
-        WindowImage fw = new WindowImage("Webcam Capture");
-        VideoCapture capture = new VideoCapture(0);
-
-        if(!capture.isOpened()){
-            System.out.println("Unable to open the camera");
-            capture.release();
-            System.exit(0);
+public class Main extends PApplet {
+    public void settings(){
+        size(800,600);
+    }
+    public void draw(){
+        if(mousePressed){
+            fill(0,255,0);
+        } else {
+            fill(0,0,255);
         }
-        Mat frame = new Mat();
+        ellipse(mouseX, mouseY, 60, 60);
+        //rect(30,20,55,55);
+    }
+    public static void main(String[] args) {
+        PApplet.main(Main.class.getName());
 
-        while (true) {
-            if (capture.read(frame)) {
-                fw.setImage(frame);
-            }
-        }
     }
 }
