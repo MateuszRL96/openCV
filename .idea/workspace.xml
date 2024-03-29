@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a19f7e2-c9f4-463e-b262-314ce50ab5cd" name="Changes" comment="kolejny part">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Part4.java" afterDir="false" />
+    <list default="true" id="8a19f7e2-c9f4-463e-b262-314ce50ab5cd" name="Changes" comment="kolejny part5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Party/Part5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/JavaFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/JavaFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Party/Part1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Party/Part2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Part3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Party/Part3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Part4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Party/Part4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/processing-4.3/core/library/core.jar",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/processing-4.3/core/library/core.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\matik\OneDrive\Documents\OpenCV\src" />
@@ -59,7 +64,7 @@
       <module name="OpenCV" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.Party.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711615666429</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="kolejny part5">
+      <option name="closed" value="true" />
+      <created>1711618356936</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711618356936</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,6 +142,7 @@
     <MESSAGE value="robie dalej ucze sie" />
     <MESSAGE value="robie dalej ucze sie sdsdds" />
     <MESSAGE value="kolejny part" />
-    <option name="LAST_COMMIT_MESSAGE" value="kolejny part" />
+    <MESSAGE value="kolejny part5" />
+    <option name="LAST_COMMIT_MESSAGE" value="kolejny part5" />
   </component>
 </project>

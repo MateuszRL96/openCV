@@ -40,7 +40,6 @@ public class JavaFrame extends JFrame {
                 JOptionPane.showMessageDialog(null, "hello " + txtFieldInput.getText());
                 labelMessage.setText("Hello " + txtFieldInput.getText());
             }
-
         }
     }
     /*
